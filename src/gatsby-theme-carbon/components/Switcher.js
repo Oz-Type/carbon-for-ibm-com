@@ -14,7 +14,7 @@ const CustomSwitcher = (props) => (
     <SwitcherLink href="https://ibm.com/design/language">
       IBM Design Language
     </SwitcherLink>
-    <SwitcherLink href="https://ibm.com/brand">IBM Brand Center</SwitcherLink>
+    <SwitcherLink href="https://ibm.com/brand">About us</SwitcherLink>
 
     {/* <SwitcherDivider>Design disciplines</SwitcherDivider> */}
     <SwitcherLink href="https://www.carbondesignsystem.com/">
